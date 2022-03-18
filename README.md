@@ -1,6 +1,6 @@
 # Stocks Market Telegram Bot
 
-Bot works with Yahoo Finance API
+Bot works with Yahoo Finance API, R and MySQL
 
 ## Features
 * create multiple portfolios
