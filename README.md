@@ -9,7 +9,7 @@
 
 
 ## Files description
-**bot-message.R** — bot commands
-**db_func.R** — database functions
-**inline-add.R** — inline commands
+**bot-message.R** — bot commands<br>
+**db_func.R** — database functions<br>
+**inline-add.R** — inline commands<br>
 **chat_state.R** — functions to check and update inline commands state
