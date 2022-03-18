@@ -1,5 +1,7 @@
 # Stocks Market updater with R
 
+Bot works with Yahoo Finance API
+
 ## Features
 * create multiple portfolios
 * create watchlist
