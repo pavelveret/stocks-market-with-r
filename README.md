@@ -1,4 +1,4 @@
-# Stocks Market updater with R
+# Stocks Market Telegram Bot
 
 Bot works with Yahoo Finance API
 
